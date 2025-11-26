@@ -21,7 +21,7 @@ Source: Our World in Data (Global COVID-19 Dataset)
 - Jupyter Notebook
 
 ## Key Findings
-(To be added after full analysis)
+South Africa’s COVID-19 mortality rate peaked during early waves and showed a gradual decline following the national vaccination rollout, indicating improved clinical outcomes and population-level immunity.
 
 ## Author
 Evangeline Angel Naidoo
